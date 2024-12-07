@@ -1,0 +1,39 @@
+# Python  
+__pycache__/  
+*.py[cod]  
+*$py.class  
+
+# Virtual Environment  
+venv/  
+env/  
+.env  
+
+# IDE specific files  
+.idea/  
+.vscode/  
+*.swp  
+*~  
+
+# Face Recognition specific  
+*.dat  
+models/*.dat  
+known_faces/*  
+!known_faces/.gitkeep  
+unknown_faces/*  
+!unknown_faces/.gitkeep  
+detected_faces/*  
+!detected_faces/.gitkeep  
+
+# Images and media files (uncomment if you don't want to track these)  
+# *.jpg  
+# *.jpeg  
+# *.png  
+# *.gif  
+
+# OS generated files  
+.DS_Store  
+.DS_Store?  
+Thumbs.db  
+
+# Jupyter Notebook  
+.ipynb_checkpoints  
