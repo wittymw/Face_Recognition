@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Face recognition library contributors
 
 ## Contact
-Twitter - [@wittymw](https://twitter.com/wittymw)
+Twitter - [@0xwittymw](https://twitter.com/0xwittymw)
 Project Link: [https://github.com/wittymw/Face_Recognition](https://github.com/wittymw/Face_Recognition)
 
 ## Support
